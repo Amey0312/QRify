@@ -19,3 +19,4 @@ QRify is a lightweight and efficient QR code generator built with HTML, CSS, and
 - CSS3: For styling and ensuring a clean, responsive design.
 - JavaScript (ES6): For QR code generation and interactivity.
 
+Checkout my work here: https://qrify-jpa7.onrender.com
